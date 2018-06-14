@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin-top: 10em;
+  padding-left: 1px;
+  border:  2px solid black ;
+}
+.btn {
+        margin:3em;
+    }
+h1 {
+  font-weight:  bold;
+}
+
+}
+@media query() {
+
+}
